@@ -9,7 +9,6 @@ def identify_mushroom():
         "Pied Bleu": {"gills": True, "forest": True, "ring": False, "convex_cup": True}
     }
 
-    # input the questions
     print("Answer the following questions with 'yes' or 'no'.\n")
 
     # Question 1: Does your mushroom have gills?
